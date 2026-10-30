@@ -1,0 +1,6 @@
+{
+  "name": "Cardboard VR",
+  "description": "Cast and split your phone's screen into Google Cardboard VR side-by-side mode with auto-detection for already-VR SBS content and floating touch pass-through.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

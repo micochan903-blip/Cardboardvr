@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cardboard VR</string>
+    <string name="overlay_service_title">Cardboard VR Screen Cast</string>
+    <string name="overlay_service_desc">Mirroring screen to Google Cardboard side-by-side mode</string>
+    <string name="stop_vr">Stop VR Mode</string>
+    <string name="start_vr">Start Cardboard VR</string>
+    <string name="enable_overlay">Enable Floating Overlay</string>
+    <string name="touch_passthrough">Touch Pass-Through</string>
+</resources>
